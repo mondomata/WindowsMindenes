@@ -8,4 +8,5 @@ A legjobb Windows Hasznos Eszköztár. /The Best Windows Utility Tools.
 Origin source (Million thanks!): <a href="christitus.com/windows-tool/" target="_blank">christitus.com/windows-tool/</a>
 
 Note
+
 Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlban lévő szkript web címének lefutásához a felhasználó engedélyt adhat a powershellnek (ha még nem volt beállítva ilyen engedély, és ezért nem lehet használni)
