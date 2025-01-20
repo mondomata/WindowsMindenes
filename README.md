@@ -1,5 +1,5 @@
 # WindowsMindenes
-Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, és futtasd a Powershell rendszergazda/Terminál rendszergazda programmal.
+Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, és futtasd a <b>Powershell rendszergazda/Terminál rendszergazda</b> programmal.
 
 Download <code>TitusWindowsUtil.ps1</code> file, and run to Powershell admin/Terminal admin.
 
