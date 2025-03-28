@@ -1,7 +1,7 @@
 # WindowsMindenes
 Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, és futtasd a <b>Powershell rendszergazda/Terminál rendszergazda</b> programmal. Jobb klikk a fájlnéven és powershell/terminal választás
 
-Download <code>TitusWindowsUtil.ps1</code> file, and run to Powershell admin/Terminal admin.
+Download <code>TitusWindowsUtil.ps1</code> file, and run to Powershell admin/Terminal admin. Right click on filename, choice powershell/terminal.
 
 A legjobb Windows Hasznos Eszköztár. /The Best Windows Utility Tools.  
 
