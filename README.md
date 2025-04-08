@@ -14,6 +14,8 @@ Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlb
 2. módszer:
    Nyomd együtt a Windows🪟 és X billentyűt, válaszd a Powershellt/vagy Terminált.
    Másold be ezt és nyomj entert:
+   
   <tt> iwr -useb https://christitus.com/win | iex </tt>
+  
   ...elindul a progi...
    
