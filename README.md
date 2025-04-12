@@ -13,7 +13,7 @@ Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlb
 
 2. módszer:
    Nyomd együtt a Windows <kbd> 🪟 </kbd> és <kbd> ✖️ </kbd> billentyűket, válaszd a Powershellt/vagy Terminált.
-   Másold be ezt és nyomj entert:
+   Másold be ezt és nyomj <kbd> Enter </kbd>t:
    
   <tt> iwr -useb https://christitus.com/win | iex </tt>
   
