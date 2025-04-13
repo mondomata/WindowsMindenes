@@ -14,7 +14,7 @@ Origin source (Million thanks!): <a href="https://christitus.com/windows-tool/" 
 👌🥈 Másik módszer:
 Nyomd meg együtt a Windows <kbd> 🪟 </kbd> és <kbd><b> X </b></kbd> billentyűket, válaszd a Powershellt/vagy Terminált.
 
-Másold be ezt és nyomj <kbd> Enter </kbd>t:     <tt> iwr -useb https://christitus.com/win | iex </tt>
+Másold be ezt a Powershell-be és nyomj <kbd> Enter </kbd>t:     <tt> iwr -useb https://christitus.com/win | iex </tt>
   
   ...elindul a progi (ha a Windowsodban engedélyezve van a powershell szkriptek futtatása)...
    
