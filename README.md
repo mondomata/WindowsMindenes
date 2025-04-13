@@ -14,14 +14,14 @@ Lehetőségek (csak példák): Több tucat népszerű program (böngészők, Win
 <sup><tt>✒️Note: Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlban lévő szkript web címének lefutásához a felhasználó engedélyt adhat a powershellnek (ha még nem volt beállítva ilyen engedély, ezért a Windows nem tudja használni.)</tt></sup>
 
 👌🥈 Másik módszer:
-Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün<kbd> 🪟 </kbd>, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
+Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün 🪟, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
 
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> iwr -useb https://christitus.com/win | iex </tt>
   
   ...elindul a progi (ha a Windowsodban engedélyezve van a powershell szkriptek futtatása)...<hr>
 
 Ugyanitt <b>Win11Debloat</b> "hulladék tisztitó" (megszabadít a kínzó reklámoktól, felesleges és kémkedő Microsoft programoktól):
-Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün<kbd> 🪟 </kbd>, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
+Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün 🪟, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
 
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) </tt>
 
