@@ -1,5 +1,5 @@
 # WindowsMindenes
-Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, és Jobb klikk a fájlnéven majd a felugró listán válaszd a powershell/terminál lehetőséget.
+Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, és Jobb klikk 🖱️↖️a fájlnéven majd a felugró listán válaszd a powershell/terminál lehetőséget.
 
 Download <code>TitusWindowsUtil.ps1</code> file, and Right click on filename, and choice powershell/terminal.
 
