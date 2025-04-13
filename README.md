@@ -1,5 +1,5 @@
 # WindowsMindenes
-Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, és Jobb klikk 🖱️↖️a fájlnéven majd a felugró listán válaszd a Run Powershell/terminál (Futtatás Powershell-lel) lehetőséget.
+Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, és Jobb egérkattintás <tt>(🖱️↖️ )</tt> a fájlnéven majd a felugró listán válaszd a <tt>Run width PowerShell...</tt> (Futtatás Powershell-lel) lehetőséget.
 
 Download <code>TitusWindowsUtil.ps1</code> file, and Right click on filename, and choice powershell/terminal.
 
