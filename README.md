@@ -1,7 +1,7 @@
 # WindowsMindenes
 <b>Az itt közzétett 2 program-eszközzel garantáltan stabilabb, gyorsabb, és reklámmentes (meg "gazmentes") Windows varázsolható bárki gépére.</b>
 
-Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, majd a Fájlkezelőben Jobb egérgombos kattintás (🖱️↖️ ) a fájlnéven és a felugró listán válaszd a <tt>Run width PowerShell...</tt> (Futtatás Powershell-lel) lehetőséget.
+Töltsd le a <code>TitusWindowsUtil.ps1</code> fájlt, majd a Fájlkezelőben Jobb egérgombos kattintás (🖱️<sup>↖️</sup> ) a fájlnéven és a felugró listán válaszd a <tt>Run width PowerShell...</tt> (Futtatás Powershell-lel) lehetőséget.
 
 Download <code>TitusWindowsUtil.ps1</code> file, and Right click on filename, and choice powershell/terminal.
 
