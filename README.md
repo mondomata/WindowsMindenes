@@ -24,7 +24,8 @@ Kattints Jobb egérgombbal (🖱️↖️ ) a Start menün<kbd> 🪟 </kbd>, a f
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) </tt>
 
 ...A szkript elindulása után érdemes az első - Standard - lehetőséget választani a tisztítási módok közül.
-<sup>Forrás / 1000 thanks to 🙏🙏🙏:
+
+<sup>Forrás, origin source / 1000 thanks to 🙏🙏🙏:
 https://github.com/Raphire/Win11Debloat</sup>
 
 
