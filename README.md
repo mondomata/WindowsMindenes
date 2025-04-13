@@ -9,7 +9,7 @@ Lehetőségek (csak példák): Több tucat népszerű program (böngészők, Win
 
 Origin source (Million thanks!): <a href="https://christitus.com/windows-tool/" target="_blank">christitus.com/windows-tool/</a>
 
-<sup><tt>✒️Note: Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlban lévő szkript web címének lefutásához a felhasználó engedélyt adhat a powershellnek (ha még nem volt beállítva ilyen engedély, és ezért nem lehet használni)</tt></sup>
+<sup><tt>✒️Note: Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlban lévő szkript web címének lefutásához a felhasználó engedélyt adhat a powershellnek (ha még nem volt beállítva ilyen engedély, ezért a Windows nem tudja használni.)</tt></sup>
 
 2. módszer:
    Nyomd meg együtt a Windows <kbd> 🪟 </kbd> és <kbd><b> X </b></kbd> billentyűket, válaszd a Powershellt/vagy Terminált.
