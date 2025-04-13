@@ -12,7 +12,7 @@ Origin source (Million thanks!): <a href="https://christitus.com/windows-tool/" 
 <sup><tt>✒️Note: Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlban lévő szkript web címének lefutásához a felhasználó engedélyt adhat a powershellnek (ha még nem volt beállítva ilyen engedély, ezért a Windows nem tudja használni.)</tt></sup>
 
 👌🥈 Másik módszer:
-Nyomd meg együtt a Win<kbd> 🪟 </kbd> és <kbd><b> X </b></kbd> billentyűket, a felugró listán válaszd a Windows Powershellt/vagy Terminált(Win10).
+Nyomd meg együtt a Win<kbd> 🪟 </kbd> és <kbd><b> X </b></kbd> billentyűket, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
 
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> iwr -useb https://christitus.com/win | iex </tt>
   
