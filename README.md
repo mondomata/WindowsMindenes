@@ -5,6 +5,8 @@ Download <code>TitusWindowsUtil.ps1</code> file, and Right click on filename, an
 
 A legjobb Windows Hasznos Eszköztár. /The Best Windows Utility Tools.  
 
+Lehetőségek (csak példák): Több tucat népszerű program (böngészők, Windows eszközök, stb) kiválasztása majd telepítése 1 kattintással, Windows optimalizáló beállítás 1 kattintással, Windows felhasználó felület beállítások 1 kattintással....
+
 Origin source (Million thanks!): <a href="https://christitus.com/windows-tool/" target="_blank">christitus.com/windows-tool/</a>
 
 Note
