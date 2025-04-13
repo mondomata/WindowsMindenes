@@ -16,5 +16,13 @@ Nyomd meg együtt a Win<kbd> 🪟 </kbd> és <kbd><b> X </b></kbd> billentyűket
 
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> iwr -useb https://christitus.com/win | iex </tt>
   
-  ...elindul a progi (ha a Windowsodban engedélyezve van a powershell szkriptek futtatása)...
-   
+  ...elindul a progi (ha a Windowsodban engedélyezve van a powershell szkriptek futtatása)...<hr>
+Ugyanitt Windows 11 "hulladék tisztitó" (megszabadít a kínzó reklámoktól, felesleges és kémkedő Microsoft programoktól):
+Powershell parancs futtatása... (Jobb egérgombos kattintás a Windows Starton, majd Windows Powershell választása a listán, és az alábbi kód bemásolása, majd <kbd>Enter</kbd>):
+<tt> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) </tt>
+
+...A szkript elindulása után érdemes az első - Standard - lehetőséget választani a tisztítási módok közül.
+Forrás:
+https://github.com/Raphire/Win11Debloat
+
+
