@@ -17,5 +17,5 @@ Origin source (Million thanks!): <a href="https://christitus.com/windows-tool/" 
    
   <tt> iwr -useb https://christitus.com/win | iex </tt>
   
-  ...elindul a progi...
+  ...elindul a progi (ha a Windowsodban engedélyezve van a powershell szkriptek futtatása)...
    
