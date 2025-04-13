@@ -25,7 +25,7 @@ Kattints Jobb egérgombbal (🖱️↖️ ) a Start menün<kbd> 🪟 </kbd>, a f
 
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) </tt>
 
-...A szkript elindulása után érdemes az <tt>(1) Default Mode</tt>-t választani a tisztítási módok közül az <kbd> 1 </kbd> billentyűgombbal.
+...A szkript elindulása után érdemes az <tt>(1) Default Mode</tt>-t választani a tisztítási módok közül az <kbd> 1 </kbd> billentyűgombbal és hátra dőlni arra a 20 másodpercre, amíg lefut a program. Ennyi.
 
 <sup>Forrás, origin source / 1000 thanks to 🙏🙏🙏:
 https://github.com/Raphire/Win11Debloat</sup>
