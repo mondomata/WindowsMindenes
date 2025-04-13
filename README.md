@@ -12,14 +12,16 @@ Origin source (Million thanks!): <a href="https://christitus.com/windows-tool/" 
 <sup><tt>✒️Note: Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlban lévő szkript web címének lefutásához a felhasználó engedélyt adhat a powershellnek (ha még nem volt beállítva ilyen engedély, ezért a Windows nem tudja használni.)</tt></sup>
 
 👌🥈 Másik módszer:
-Nyomd meg együtt a Win<kbd> 🪟 </kbd> és <kbd><b> X </b></kbd> billentyűket, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
+Kattints Jobb egérgombbal a Start menün<kbd> 🪟 </kbd>, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
 
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> iwr -useb https://christitus.com/win | iex </tt>
   
   ...elindul a progi (ha a Windowsodban engedélyezve van a powershell szkriptek futtatása)...<hr>
+
 Ugyanitt Windows 11 "hulladék tisztitó" (megszabadít a kínzó reklámoktól, felesleges és kémkedő Microsoft programoktól):
-Powershell parancs futtatása... (Jobb egérgombos kattintás a Windows Starton, majd Windows Powershell választása a listán, és az alábbi kód bemásolása, majd <kbd>Enter</kbd>):
-<tt> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) </tt>
+Kattints Jobb egérgombbal a Start menün<kbd> 🪟 </kbd>, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
+
+Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) </tt>
 
 ...A szkript elindulása után érdemes az első - Standard - lehetőséget választani a tisztítási módok közül.
 Forrás:
