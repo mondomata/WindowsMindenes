@@ -14,7 +14,7 @@ Lehetőségek (csak példák): Több tucat népszerű program (böngészők, Win
 <sup><tt>✒️Note: Az eredeti forráson kizarólag annyi változtatás történt, hogy a ps1 fájlban lévő szkript web címének lefutásához a felhasználó engedélyt adhat a powershellnek (ha még nem volt beállítva ilyen engedély, ezért a Windows nem tudja használni.)</tt></sup>
 
 👌🥈 Másik módszer:
-Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün 🪟, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
+Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün <kbd>![windowsbill](https://github.com/user-attachments/assets/85cd7478-4ebe-4051-98cf-bde8cbaba2d3)</kbd>, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
 
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> iwr -useb https://christitus.com/win | iex </tt>
   
