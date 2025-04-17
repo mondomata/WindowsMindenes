@@ -21,7 +21,7 @@ Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     
   ...elindul a progi (ha a Windowsodban engedélyezve van a powershell szkriptek futtatása)...<hr>
 
 Ugyanitt <b>Win11Debloat</b> "hulladék tisztitó" (megszabadít a kínzó reklámoktól, felesleges és kémkedő Microsoft programoktól):
-Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün 🪟, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
+Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün <kbd>![windowsbill](https://github.com/user-attachments/assets/85cd7478-4ebe-4051-98cf-bde8cbaba2d3)</kbd>, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
 
 Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) </tt>
 
