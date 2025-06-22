@@ -16,14 +16,19 @@ Lehetőségek (csak példák): Több tucat népszerű program (böngészők, Win
 👌🥈 Másik módszer:
 Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün <kbd>![windowsbill](https://github.com/user-attachments/assets/85cd7478-4ebe-4051-98cf-bde8cbaba2d3)</kbd>, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
 
-Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> iwr -useb https://christitus.com/win | iex </tt>
-  
+Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️    
+``
+iwr -useb https://christitus.com/win | iex
+``  
   ...elindul a progi (ha a Windowsodban engedélyezve van a powershell szkriptek futtatása)...<hr>
 
 Ugyanitt <b>Win11Debloat</b> "hulladék tisztitó" (megszabadít a kínzó reklámoktól, felesleges és kémkedő Microsoft programoktól):
 Kattints Jobb egérgombbal (🖱️<sup>↖️</sup> ) a Start menün <kbd>![windowsbill](https://github.com/user-attachments/assets/85cd7478-4ebe-4051-98cf-bde8cbaba2d3)</kbd>, a felugró listán válaszd a Windows Powershellt/vagy Terminált<sup>(Win10)</sup>.
 
-Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     <tt> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) </tt>
+Másold be ezt a kódot a Powershell-be és nyomj <kbd> Enter </kbd>t➡️     
+``
+& ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
+``
 
 ...A szkript elindulása után érdemes az <tt>(1) Default Mode</tt>-t választani a tisztítási módok közül az <kbd> 1 </kbd> billentyűvel és hátra dőlni arra a 20 másodpercre, amíg lefut a program. Ennyi.
 
